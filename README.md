@@ -1,20 +1,17 @@
-<img align="right" alt="coding" width="100%" src="https://res.cloudinary.com/dybq4rwuf/image/upload/v1703670661/github-header-image_ybdpej.png">
-<h1 align="center">Hi 👋, I'm Maryam Ebrahimi</h1>
+<img align="right" alt="coding" width="100%" src="#">
+<h1 align="center">Hi 👋, I'm Alireza Pourgholam</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamer&label=Profile%20views&color=0e75b6&style=flat" alt="maryamer" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **personalmaryamebrahimi@gmail.com**
+- 🌱 I’m currently learning **JavaScript**
+- 📫 How to reach me **Alireza.Pourgholam444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maryame78116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maryame78116" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maryam-ebrahimi-706aa3266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryam-ebrahimi-706aa3266" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maryame78116" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/Alirewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alirewa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
