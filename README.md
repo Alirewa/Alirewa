@@ -1,4 +1,5 @@
-<img align="right" alt="coding" width="100%" src="alirewa-banner.jpg"> </br>
+<img align="right" alt="coding" width="100%" src="alirewa-banner.jpg">
+</br>
 <h1 align="center">Hi 👋, I'm Alireza Pourgholam</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
