@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Pourgholam</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamer&label=Profile%20views&color=0e75b6&style=flat" alt="maryamer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alirewa&label=Profile%20views&color=0e75b6&style=flat" alt="Alirewa" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me **Alireza.Pourgholam444@gmail.com**
