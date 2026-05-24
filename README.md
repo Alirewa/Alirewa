@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Alirewa">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Hey+there!+I'm+Ali+%F0%9F%91%8B;Frontend+Developer+from+Kish%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;Building+modern+web+experiences;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+TailwindCSS;Powered+by+curiosity+%26+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Hey+there!+I'm+Alireza+%F0%9F%91%8B;Frontend+Developer+from+Kish%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;Building+modern+web+experiences;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+TailwindCSS;Powered+by+curiosity+%26+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -77,11 +77,9 @@ I stay on top of the latest tools and technologies — including AI — and weav
 
 <div align="center">
 
-<!-- Replace the link below with your actual resume URL when ready -->
-
 | 📎 CV / Resume |
 |:---:|
-| _Link coming soon — reach out directly for a copy_ |
+| ... |
 
 </div>
 
