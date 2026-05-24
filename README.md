@@ -1,157 +1,126 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alireza%20Pourgholam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%2F%20Next.js%20%2F%20TypeScript&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alireza%20Pourgholam&fontSize=48&fontColor=fff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
-<!-- Typing Animation -->
+<br/>
+
 <a href="https://github.com/Alirewa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%2F+Next.js+Specialist;TypeScript+%2B+TailwindCSS+Expert;Building+Scalable+Web+Applications;علیرضا+پورغلام" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Hey+there!+I'm+Ali+%F0%9F%91%8B;Frontend+Developer+from+Kish%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;Building+modern+web+experiences;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+TailwindCSS;Powered+by+curiosity+%26+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Alirewa&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Alirewa?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
+<img src="https://komarev.com/ghpvc/?username=Alirewa&style=flat-square&color=7c3aed&label=profile+views" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Alirewa?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=followers" />
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```typescript
-const alireza: Developer = {
-  name:        "Alireza Pourgholam",  // علیرضا پورغلام
-  role:        "Frontend Developer",
-  location:    "Iran 🇮🇷",
-  born:        "May 18, 2004",
-  email:       "alireza.pourgholam444@gmail.com",
-  telegram:    "@Alirewa",
-  focus:       ["Next.js", "React.js", "TypeScript", "TailwindCSS"],
-  passion:     "Crafting pixel-perfect, performant web experiences",
-  available:   true,
-};
-```
-
-- 🎯 Specialized in **custom project design & development** with Next.js & React.js
-- ⚡ Strong focus on **TypeScript**, clean architecture, and reusable component systems
-- 🎨 Building modern, responsive UIs with **TailwindCSS**
-- 🚀 Turning ideas into fast, scalable, production-ready web applications
-- 📬 Open to freelance projects, collaborations, and full-time opportunities
+<br/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🙋‍♂️ Who Am I?
+
+I'm **Alireza Pourgholam** _(علیرضا پورغلام)_, a Frontend Developer based in **Kish Island, Iran 🏝️**.
+
+I design and build custom web applications with a focus on clean UI, solid architecture, and smooth user experience. I work with the latest web technologies and use **AI tools as a core part of my workflow** — because in 2025, the developers who move fast are the ones who know how to leverage AI smartly.
+
+> _"Code less, ship more — with the right tools."_
+
+<br/>
+
+---
+
+### ⚡ What I Work With
 
 <div align="center">
 
-### Core
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Styling
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### State & Data
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
-
-### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alirewa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alirewa&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirewa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" />
+---
 
-</div>
+### 🤖 AI-Augmented Development
+
+I actively integrate AI into my daily dev workflow — not as a crutch, but as a **force multiplier**.
+
+| Tool | How I Use It |
+|------|-------------|
+| 🧠 **Claude / ChatGPT** | Architecture decisions, code review, debugging |
+| ⚡ **GitHub Copilot** | Faster boilerplate, autocomplete, refactoring |
+| 🎨 **Midjourney / v0** | UI design inspiration & rapid prototyping |
+| 🔍 **Perplexity** | Research & staying up-to-date with the ecosystem |
+
+> Developers who learn to work *with* AI move 10× faster. I'm one of them.
+
+<br/>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alirewa&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="98%" />
-</div>
-
----
-
-## 📄 Resume
+### 📊 GitHub Stats
 
 <div align="center">
 
-> **My resume is available upon request or via the link below.**
-
-<!-- 📎 Add your resume link here -->
-<!-- [![Download Resume](https://img.shields.io/badge/Download_Resume-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK_HERE) -->
-
-| 🔗 Resume / CV | Status |
-|:---:|:---:|
-| **Coming Soon** — _Link will be added here_ | 🔄 Updating |
-
-📬 In the meantime, feel free to reach out via email or Telegram for a copy.
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-alireza.pourgholam444@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.pourgholam444@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Alirewa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="160" />
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-@Alirewa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alirewa)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alirewa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alirewa)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Alirewa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alirewa)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirewa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="160" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Alirewa&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" height="150" />
 
 </div>
 
----
-
-## 💡 What I Build
-
-```
-✦  Custom Web Applications    →  Next.js · React.js · TypeScript
-✦  Responsive UI/UX Design    →  TailwindCSS · Figma-to-Code
-✦  State Management           →  Redux · Zustand · React Query
-✦  Performance Optimization   →  SSR · SSG · ISR · Code Splitting
-✦  API Integration            →  REST APIs · Fetch · Axios
-```
+<br/>
 
 ---
+
+### 📄 Resume
 
 <div align="center">
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<!-- Replace the link below with your actual resume URL when ready -->
 
-<sub>
-  <b>Alireza Pourgholam</b> · علیرضا پورغلام · Frontend Developer · React · Next.js · TypeScript · TailwindCSS · Iran
-</sub>
+| 📎 CV / Resume |
+|:---:|
+| _Link coming soon — reach out directly for a copy_ |
 
+</div>
+
+<br/>
+
+---
+
+### 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/alireza.pourgholam444@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.pourgholam444@gmail.com)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/@Alirewa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alirewa)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirewa/)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+<sub>Alireza Pourgholam · علیرضا پورغلام · Frontend Developer · Kish · Iran · Next.js · React · TypeScript · TailwindCSS</sub>
 </div>
