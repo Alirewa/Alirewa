@@ -22,7 +22,7 @@
 
 ### 🙋‍♂️ Who Am I?
 
-I'm **Alireza Pourgholam** _(علیرضا پورغلام)_, a Frontend Developer based in **Kish Island, Iran 🏝️**.
+I'm **Alireza Pourgholam** , a Frontend Developer based in **Kish Island, Iran 🏝️**.
 
 I design and build custom web applications with a focus on clean UI, solid architecture, and smooth user experience.
 I stay on top of the latest tools and technologies — including AI — and weave them naturally into how I work and ship.
