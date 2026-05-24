@@ -24,9 +24,10 @@
 
 I'm **Alireza Pourgholam** _(علیرضا پورغلام)_, a Frontend Developer based in **Kish Island, Iran 🏝️**.
 
-I design and build custom web applications with a focus on clean UI, solid architecture, and smooth user experience. I work with the latest web technologies and use **AI tools as a core part of my workflow** — because in 2025, the developers who move fast are the ones who know how to leverage AI smartly.
+I design and build custom web applications with a focus on clean UI, solid architecture, and smooth user experience.
+I stay on top of the latest tools and technologies — including AI — and weave them naturally into how I work and ship.
 
-> _"Code less, ship more — with the right tools."_
+> _"Build fast, build right, keep it clean."_
 
 <br/>
 
@@ -54,34 +55,17 @@ I design and build custom web applications with a focus on clean UI, solid archi
 
 ---
 
-### 🤖 AI-Augmented Development
-
-I actively integrate AI into my daily dev workflow — not as a crutch, but as a **force multiplier**.
-
-| Tool | How I Use It |
-|------|-------------|
-| 🧠 **Claude / ChatGPT** | Architecture decisions, code review, debugging |
-| ⚡ **GitHub Copilot** | Faster boilerplate, autocomplete, refactoring |
-| 🎨 **Midjourney / v0** | UI design inspiration & rapid prototyping |
-| 🔍 **Perplexity** | Research & staying up-to-date with the ecosystem |
-
-> Developers who learn to work *with* AI move 10× faster. I'm one of them.
-
-<br/>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alirewa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alirewa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirewa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirewa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="170" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Alirewa&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Alirewa&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="150" />
 
 </div>
 
