@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Alirewa">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=580&lines=Hey+there!+I'm+Ali+%F0%9F%91%8B;Frontend+Developer+from+Kish%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+TailwindCSS;Telegram+Bot+Developer;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=580&lines=Hey+there!+I'm+Alireza+%F0%9F%91%8B;Frontend+Developer+from+Kish%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+TailwindCSS;Telegram+Bot+Developer;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,7 +20,7 @@
 
 ### 👤 About Me
 
-I'm **Alireza Pourgholam** _(علیرضا پورغلام)_, a Frontend Developer based in **Kish Island, Iran 🏝️**.
+I'm **Alireza Pourgholam**, a Frontend Developer based in **Kish Island, Iran 🏝️**.
 
 I design and build custom web applications — clean UI, solid architecture, smooth UX.
 I stay current with the latest tools and technologies, including AI, and use them naturally as part of how I work.
@@ -79,13 +79,13 @@ Still growing, but genuinely trying to give back to the community — one repo a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alirewa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alirewa&theme=tokyonight" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirewa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alirewa&theme=tokyonight" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Alirewa&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="145" />
+<img src="https://streak-stats.demolab.com?user=Alirewa&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" height="145" />
 
 </div>
 
