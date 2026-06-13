@@ -27,16 +27,6 @@ I build and maintain open-source projects around **Telegram bots** and **web app
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alirewa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4" />
-
-</div>
-
----
-
 ### ⚡ Skills
 
 **Frontend**
@@ -89,6 +79,10 @@ I build and maintain open-source projects around **Telegram bots** and **web app
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Alirewa&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" height="140" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alirewa&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
