@@ -1,0 +1,4 @@
+# Local editor / assistant config
+.claude/
+.vscode/
+node_modules/
