@@ -18,23 +18,8 @@ const README = "README.md";
 /** Repos that are infrastructure, not portfolio pieces. */
 const HIDDEN = new Set([USER, "Ubuntu-Server-setup", "KishNews-live"]);
 
-/**
- * Hand-picked repos, shown first and in this exact order. Everything else is
- * ranked automatically below. Edit this list to re-order the top of the table.
- */
-const PINNED = [
-  "cyber-toolkit",
-  "EnglishHub-WebApp",
-  "kishview",
-  "Resume-Builder",
-  "dangi-dong",
-  "Factor-Builder",
-  "persian-ui-kit",
-  "V2ray-Configs",
-];
-
 /** How many projects to show in the featured table. */
-const MAX_PROJECTS = 10;
+const MAX_PROJECTS = 8;
 
 /** How many activity lines to show. */
 const MAX_ACTIVITY = 6;
@@ -71,42 +56,44 @@ function clamp(text, max = 110) {
 }
 
 /**
- * Score for the unpinned repos. Stars matter, but a documented repo with a
- * live demo that was touched recently should outrank an old starred toy app.
+ * Condense a repo description into a short phrase for the table: drop the
+ * trailing "Built with X" / marketing clauses and keep the first idea only.
  */
-function score(r) {
-  const monthsIdle = (Date.now() - new Date(r.pushed_at)) / 2592000000;
-  return (
-    r.stargazers_count * 3 +
-    (r.homepage ? 4 : 0) +
-    (r.description ? 3 : 0) +
-    (r.topics?.length ? 2 : 0) +
-    Math.max(0, 12 - monthsIdle)
-  );
+function summarize(description) {
+  if (!description) return "—";
+  let t = cell(description)
+    // Leading emoji, e.g. "🛡️ Self-hosted …"
+    .replace(/^[^\p{L}\p{N}]+/u, "")
+    // Boilerplate tails that repeat across the repos.
+    .replace(/\s*(Built with|Powered by|Made with)\b.*$/i, "")
+    .replace(/\s*No (backend|login|account|sign-up)\b.*$/i, "");
+
+  // Keep only the first clause — descriptions here use "—" or "." as the break.
+  const [head] = t.split(/\s+—\s+|\.\s+/);
+  if (head && head.length >= 14) t = head;
+
+  return clamp(t, 52).replace(/[.,;:]$/, "");
 }
 
 function buildProjects(repos) {
-  const visible = repos.filter((r) => !r.fork && !r.archived && !HIDDEN.has(r.name));
-  const byName = new Map(visible.map((r) => [r.name, r]));
-
-  const pinned = PINNED.map((n) => byName.get(n)).filter(Boolean);
-  const pinnedNames = new Set(pinned.map((r) => r.name));
-  const rest = visible
-    .filter((r) => !pinnedNames.has(r.name))
-    .sort((a, b) => score(b) - score(a));
-
-  const picked = [...pinned, ...rest].slice(0, MAX_PROJECTS);
+  const picked = repos
+    .filter((r) => !r.fork && !r.archived && !HIDDEN.has(r.name))
+    // Most-starred first, then most recently pushed as the tiebreaker.
+    .sort(
+      (a, b) =>
+        b.stargazers_count - a.stargazers_count ||
+        new Date(b.pushed_at) - new Date(a.pushed_at)
+    )
+    .slice(0, MAX_PROJECTS);
 
   const rows = picked.map((r) => {
-    const title = `**[${cell(r.name)}](${r.html_url})**`;
-    const demo = r.homepage ? ` · [live ↗](${r.homepage})` : "";
+    const demo = r.homepage ? ` · [demo](${r.homepage})` : "";
     const lang = r.language ? `\`${LANG_ICON[r.language] || r.language}\`` : "—";
-    const stars = r.stargazers_count > 0 ? `⭐ ${r.stargazers_count}` : "—";
-    return `| ${title}${demo} | ${clamp(r.description) || "—"} | ${lang} | ${stars} |`;
+    return `| **[${cell(r.name)}](${r.html_url})**${demo} | ${summarize(r.description)} | ${lang} | ⭐ ${r.stargazers_count} |`;
   });
 
   return [
-    "| Project | What it does | Stack | Stars |",
+    "| Project | | Stack | Stars |",
     "| :--- | :--- | :---: | :---: |",
     ...rows,
   ].join("\n");

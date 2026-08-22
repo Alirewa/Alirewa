@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alireza%20Pourgholam&fontSize=48&fontColor=fff&fontAlignY=34&desc=Frontend%20Developer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alireza%20Pourgholam&fontSize=48&fontColor=fff&fontAlignY=34&desc=Web%20Designer%20%26%20Developer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Alirewa">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Frontend+Developer+from+Kish+Island%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Privacy-first%2C+offline-capable+web+apps;Persian+%2F+RTL+interfaces+done+right;Telegram+bots+%26+automation+in+Node+%26+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Web+Designer+%26+Developer+from+Kish+Island%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;6%2B+years+building+for+the+web;WordPress+%E2%9E%9C+Frontend+%E2%9E%9C+React+%26+Next.js;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Open+source+developer+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,25 +27,26 @@
 
 ## 👋 About
 
-I'm **Alireza Pourgholam** — a Frontend Developer based on **Kish Island, Iran**.
+I'm **Alireza Pourgholam** — a web designer and developer based on **Kish Island, Iran**.
 
-I build web applications that are fast, accessible, and genuinely useful. Most of what I ship shares
-one common thread: **it runs in your browser, it works offline, and it never asks you to sign up.**
-No backend to trust, no data to leak — just a tool that does its job.
+I've been building for the web for about **6 years**. I started out with **WordPress** — themes,
+plugins, and client sites — which is where I learned how real projects actually get shipped. Over
+time I moved further up the stack into the frontend, and for the last few years **React and Next.js**
+have been where I do my best work.
 
-I care a lot about **Persian / RTL interfaces**, because they're usually an afterthought and rarely
-done well: Jalali calendars, bidirectional layouts, proper typography, real Farsi content. Alongside
-the web work I build **Telegram bots and automation** in Node.js and Python.
+These days most of my time goes into **open source** — building tools in the open, shipping them,
+and maintaining them. I care about interfaces that feel fast, code that stays readable six months
+later, and products that solve an actual problem rather than demo well.
 
 ```ts
 const alireza = {
-  role:       "Frontend Developer",
+  role:       "Web Designer & Developer",
   location:   "Kish Island, Iran 🏝️",
+  experience: "6+ years",
+  journey:    ["WordPress", "HTML/CSS/JS", "React", "Next.js"],
   stack:      ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  focus:      ["offline-first PWAs", "RTL / i18n", "clean architecture", "DX"],
-  alsoBuilds: ["Telegram bots", "automation scripts", "dev tooling"],
-  languages:  ["fa 🇮🇷", "en 🇬🇧"],
-  openTo:     "freelance & remote frontend work",
+  focus:      ["open source", "UI/UX", "clean architecture", "performance"],
+  openTo:     "freelance & remote work",
 };
 ```
 
@@ -97,18 +98,16 @@ const alireza = {
 ## 🚀 Featured Projects
 
 <!--START_SECTION:projects-->
-| Project | What it does | Stack | Stars |
+| Project | | Stack | Stars |
 | :--- | :--- | :---: | :---: |
-| **[cyber-toolkit](https://github.com/Alirewa/cyber-toolkit)** · [live ↗](https://alirewa.github.io/cyber-toolkit/) | 🛡️ Self-hosted bug bounty & penetration testing toolkit — 11 security tools (WHOIS/DNS/SSL/JWT/…), 14… | `TS` | ⭐ 1 |
-| **[EnglishHub-WebApp](https://github.com/Alirewa/EnglishHub-WebApp)** · [live ↗](https://alirewa.github.io/EnglishHub-WebApp/) | Premium offline-first English learning dashboard with flashcards (SM-2), vocabulary, grammar, speaking,… | `TS` | — |
-| **[kishview](https://github.com/Alirewa/kishview)** · [live ↗](https://alirewa.github.io/kishview/) | Interactive 3D map, ticket booking & bilingual travel guide for Kish Free Zone Island, Iran — Next.js 14,… | `TS` | — |
-| **[Resume-Builder](https://github.com/Alirewa/Resume-Builder)** · [live ↗](https://alirewa.github.io/Resume-Builder/) | Client-side resume builder for Persian, English & German — 3 templates, RTL support, PDF export, dark mode | `TS` | ⭐ 1 |
-| **[dangi-dong](https://github.com/Alirewa/dangi-dong)** · [live ↗](https://alirewa.github.io/dangi-dong/) | Offline-first PWA for splitting shared expenses between housemates and friends. Weighted splits, multi-payer… | `TS` | — |
-| **[Factor-Builder](https://github.com/Alirewa/Factor-Builder)** · [live ↗](https://alirewa.github.io/Factor-Builder/) | Free, client-side Persian (Farsi) invoice builder — Jalali date picker, 4 templates, PDF export, dark mode. No… | `TS` | ⭐ 1 |
-| **[persian-ui-kit](https://github.com/Alirewa/persian-ui-kit)** · [live ↗](https://alirewa.github.io/persian-ui-kit/) | Persian React UI Kit — RTL, Vazir Font, Jalali Calendar, Dark Mode, OTP, NationalID & more for Iranian web… | `TS` | — |
-| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [live ↗](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link — 1000+ configs auto-collected every 15 min from 180+ Telegram channels… | `PY` | ⭐ 18 |
-| **[ShopingCart-App](https://github.com/Alirewa/ShopingCart-App)** · [live ↗](https://alirewa.github.io/ShopingCart-App/) | Shopping cart app — add and remove products, update quantities, and persist cart state with localStorage.… | `CSS` | ⭐ 6 |
-| **[NoteApp](https://github.com/Alirewa/NoteApp)** · [live ↗](https://alirewa.github.io/NoteApp/) | Modular note-taking app — create, edit, pin, and delete notes with localStorage persistence. Built with… | `CSS` | ⭐ 4 |
+| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 18 |
+| **[ShopingCart-App](https://github.com/Alirewa/ShopingCart-App)** · [demo](https://alirewa.github.io/ShopingCart-App/) | Shopping cart app | `CSS` | ⭐ 6 |
+| **[NoteApp](https://github.com/Alirewa/NoteApp)** · [demo](https://alirewa.github.io/NoteApp/) | Modular note-taking app | `CSS` | ⭐ 4 |
+| **[TodoList-App](https://github.com/Alirewa/TodoList-App)** · [demo](https://alirewa.github.io/TodoList-App/) | Clean and minimal todo list app | `CSS` | ⭐ 4 |
+| **[Inventory-App](https://github.com/Alirewa/Inventory-App)** · [demo](https://alirewa.github.io/Inventory-App/) | Inventory management app | `CSS` | ⭐ 4 |
+| **[tg-bot-uploader-drive](https://github.com/Alirewa/tg-bot-uploader-drive)** | Telegram bot that receives files and uploads them… | `PY` | ⭐ 3 |
+| **[Resume-Builder](https://github.com/Alirewa/Resume-Builder)** · [demo](https://alirewa.github.io/Resume-Builder/) | Client-side resume builder for Persian, English &… | `TS` | ⭐ 1 |
+| **[Factor-Builder](https://github.com/Alirewa/Factor-Builder)** · [demo](https://alirewa.github.io/Factor-Builder/) | Free, client-side Persian (Farsi) invoice builder | `TS` | ⭐ 1 |
 <!--END_SECTION:projects-->
 
 <div align="center">
@@ -120,12 +119,12 @@ const alireza = {
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· just now</sub>
-- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 minutes ago</sub>
-- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 minutes ago</sub>
-- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 9 minutes ago</sub>
-- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 10 minutes ago</sub>
-- ⬆️ Pushed 1 commit to [EnglishHub-WebApp](https://github.com/Alirewa/EnglishHub-WebApp) <sub>· 10 minutes ago</sub>
+- 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
+- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
+- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
+- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 3 hours ago</sub>
+- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 3 hours ago</sub>
+- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 3 hours ago</sub>
 <!--END_SECTION:activity-->
 
 ---
@@ -169,7 +168,7 @@ const alireza = {
 <div align="center">
 
 I'm open to **freelance projects** and **remote frontend roles**.
-If you need a fast, well-built, RTL-ready web app — let's talk.
+If you need a fast, well-built web app — let's talk.
 
 <br/>
 
@@ -186,6 +185,6 @@ If you need a fast, well-built, RTL-ready web app — let's talk.
 <sub>Alireza Pourgholam · علیرضا پورغلام · Frontend Developer · Kish Island, Iran</sub>
 <br/>
 <sub><!--START_SECTION:updated-->
-Last updated automatically on 2026-08-22 04:57 UTC
+Last updated automatically on 2026-08-22 08:25 UTC
 <!--END_SECTION:updated--></sub>
 </div>
