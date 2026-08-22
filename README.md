@@ -115,7 +115,7 @@ const alireza = {
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 9 minutes ago</sub>
+- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· just now</sub>
 - 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
 - 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
 - ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
