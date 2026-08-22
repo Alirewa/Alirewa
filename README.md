@@ -134,9 +134,9 @@ const alireza = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alirewa&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" />
+<img src="https://raw.githubusercontent.com/Alirewa/Alirewa/main/assets/stats-card.svg" alt="GitHub stats" height="250" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirewa&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165" />
+<img src="https://raw.githubusercontent.com/Alirewa/Alirewa/main/assets/langs-card.svg" alt="Most used languages" height="250" />
 
 <br/><br/>
 
