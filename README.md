@@ -120,12 +120,12 @@ const alireza = {
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 6 hours ago</sub>
-- ⬆️ Pushed 1 commit to [Factor-Builder](https://github.com/Alirewa/Factor-Builder) <sub>· 1 day ago</sub>
-- ⬆️ Pushed 1 commit to [dangi-dong](https://github.com/Alirewa/dangi-dong) <sub>· 2 weeks ago</sub>
-- ⬆️ Pushed 1 commit to [EnglishLearning-windows](https://github.com/Alirewa/EnglishLearning-windows) <sub>· 2 weeks ago</sub>
-- ⬆️ Pushed 1 commit to [Alirewa-PortfolioWeb](https://github.com/Alirewa/Alirewa-PortfolioWeb) <sub>· 3 weeks ago</sub>
-- 🌿 Created branch `main` in [dangi-dong](https://github.com/Alirewa/dangi-dong) <sub>· 3 weeks ago</sub>
+- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· just now</sub>
+- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 minutes ago</sub>
+- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 minutes ago</sub>
+- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 9 minutes ago</sub>
+- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 10 minutes ago</sub>
+- ⬆️ Pushed 1 commit to [EnglishHub-WebApp](https://github.com/Alirewa/EnglishHub-WebApp) <sub>· 10 minutes ago</sub>
 <!--END_SECTION:activity-->
 
 ---
@@ -186,6 +186,6 @@ If you need a fast, well-built, RTL-ready web app — let's talk.
 <sub>Alireza Pourgholam · علیرضا پورغلام · Frontend Developer · Kish Island, Iran</sub>
 <br/>
 <sub><!--START_SECTION:updated-->
-Last updated automatically on 2026-08-22 03:33 UTC
+Last updated automatically on 2026-08-22 04:57 UTC
 <!--END_SECTION:updated--></sub>
 </div>
