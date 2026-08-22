@@ -6,7 +6,6 @@
  * content is never touched:
  *   <!--START_SECTION:projects--> ... <!--END_SECTION:projects-->
  *   <!--START_SECTION:activity--> ... <!--END_SECTION:activity-->
- *   <!--START_SECTION:updated-->  ... <!--END_SECTION:updated-->
  */
 
 import { readFileSync, writeFileSync } from "node:fs";
@@ -181,13 +180,10 @@ const [repos, events] = await Promise.all([
   gh(`/users/${USER}/events/public?per_page=100`),
 ]);
 
-const stamp = new Date().toISOString().slice(0, 16).replace("T", " ") + " UTC";
-
 let md = readFileSync(README, "utf8");
 md = replaceSection(md, "projects", buildProjects(repos));
 const liveRepos = new Set(repos.map((r) => r.name));
 md = replaceSection(md, "activity", buildActivity(events, liveRepos));
-md = replaceSection(md, "updated", `Last updated automatically on ${stamp}`);
 
 const before = readFileSync(README, "utf8");
 if (before === md) {

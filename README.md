@@ -110,16 +110,12 @@ const alireza = {
 | **[Factor-Builder](https://github.com/Alirewa/Factor-Builder)** · [demo](https://alirewa.github.io/Factor-Builder/) | Free, client-side Persian (Farsi) invoice builder | `TS` | ⭐ 1 |
 <!--END_SECTION:projects-->
 
-<div align="center">
-<sub>↑ Rebuilt automatically from the GitHub API every day — stars and descriptions are always current.</sub>
-</div>
-
 ---
 
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· just now</sub>
+- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 9 minutes ago</sub>
 - 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
 - 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
 - ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 hours ago</sub>
@@ -182,9 +178,5 @@ If you need a fast, well-built web app — let's talk.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-<sub>Alireza Pourgholam · علیرضا پورغلام · Frontend Developer · Kish Island, Iran</sub>
-<br/>
-<sub><!--START_SECTION:updated-->
-Last updated automatically on 2026-08-22 08:27 UTC
-<!--END_SECTION:updated--></sub>
+<sub>Alireza Pourgholam · علیرضا پورغلام · Web Designer & Developer · Kish Island, Iran</sub>
 </div>
