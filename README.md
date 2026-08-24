@@ -115,12 +115,12 @@ const alireza = {
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 19 hours ago</sub>
-- 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 22 hours ago</sub>
-- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 22 hours ago</sub>
-- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 22 hours ago</sub>
-- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 22 hours ago</sub>
-- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 22 hours ago</sub>
+- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 1 day ago</sub>
+- 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 1 day ago</sub>
+- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 1 day ago</sub>
+- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 1 day ago</sub>
+- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 1 day ago</sub>
+- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 1 day ago</sub>
 <!--END_SECTION:activity-->
 
 ---
