@@ -100,14 +100,14 @@ const alireza = {
 <!--START_SECTION:projects-->
 | Project | | Stack | Stars |
 | :--- | :--- | :---: | :---: |
-| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 18 |
-| **[ShopingCart-App](https://github.com/Alirewa/ShopingCart-App)** · [demo](https://alirewa.github.io/ShopingCart-App/) | Shopping cart app | `CSS` | ⭐ 6 |
-| **[NoteApp](https://github.com/Alirewa/NoteApp)** · [demo](https://alirewa.github.io/NoteApp/) | Modular note-taking app | `CSS` | ⭐ 4 |
-| **[TodoList-App](https://github.com/Alirewa/TodoList-App)** · [demo](https://alirewa.github.io/TodoList-App/) | Clean and minimal todo list app | `CSS` | ⭐ 4 |
-| **[Inventory-App](https://github.com/Alirewa/Inventory-App)** · [demo](https://alirewa.github.io/Inventory-App/) | Inventory management app | `CSS` | ⭐ 4 |
-| **[tg-bot-uploader-drive](https://github.com/Alirewa/tg-bot-uploader-drive)** | Telegram bot that receives files and uploads them… | `PY` | ⭐ 3 |
-| **[Resume-Builder](https://github.com/Alirewa/Resume-Builder)** · [demo](https://alirewa.github.io/Resume-Builder/) | Client-side resume builder for Persian, English &… | `TS` | ⭐ 1 |
-| **[Factor-Builder](https://github.com/Alirewa/Factor-Builder)** · [demo](https://alirewa.github.io/Factor-Builder/) | Free, client-side Persian (Farsi) invoice builder | `TS` | ⭐ 1 |
+| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 19 |
+| **[ShopingCart-App](https://github.com/Alirewa/ShopingCart-App)** · [demo](https://alirewa.github.io/ShopingCart-App/) | Shopping cart app | `CSS` | ⭐ 7 |
+| **[NoteApp](https://github.com/Alirewa/NoteApp)** · [demo](https://alirewa.github.io/NoteApp/) | Modular note-taking app | `CSS` | ⭐ 5 |
+| **[TodoList-App](https://github.com/Alirewa/TodoList-App)** · [demo](https://alirewa.github.io/TodoList-App/) | Clean and minimal todo list app | `CSS` | ⭐ 5 |
+| **[Inventory-App](https://github.com/Alirewa/Inventory-App)** · [demo](https://alirewa.github.io/Inventory-App/) | Inventory management app | `CSS` | ⭐ 5 |
+| **[tg-bot-uploader-drive](https://github.com/Alirewa/tg-bot-uploader-drive)** | Telegram bot that receives files and uploads them… | `PY` | ⭐ 4 |
+| **[Resume-Builder](https://github.com/Alirewa/Resume-Builder)** · [demo](https://alirewa.github.io/Resume-Builder/) | Client-side resume builder for Persian, English &… | `TS` | ⭐ 2 |
+| **[Factor-Builder](https://github.com/Alirewa/Factor-Builder)** · [demo](https://alirewa.github.io/Factor-Builder/) | Free, client-side Persian (Farsi) invoice builder | `TS` | ⭐ 2 |
 <!--END_SECTION:projects-->
 
 ---
@@ -115,12 +115,12 @@ const alireza = {
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 2 days ago</sub>
-- 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 2 days ago</sub>
-- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 2 days ago</sub>
-- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 2 days ago</sub>
-- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 2 days ago</sub>
-- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 2 days ago</sub>
+- ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 3 days ago</sub>
+- 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 days ago</sub>
+- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 days ago</sub>
+- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 days ago</sub>
+- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 3 days ago</sub>
+- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 3 days ago</sub>
 <!--END_SECTION:activity-->
 
 ---
