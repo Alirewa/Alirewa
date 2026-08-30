@@ -100,7 +100,7 @@ const alireza = {
 <!--START_SECTION:projects-->
 | Project | | Stack | Stars |
 | :--- | :--- | :---: | :---: |
-| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 19 |
+| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 20 |
 | **[ShopingCart-App](https://github.com/Alirewa/ShopingCart-App)** · [demo](https://alirewa.github.io/ShopingCart-App/) | Shopping cart app | `CSS` | ⭐ 7 |
 | **[NoteApp](https://github.com/Alirewa/NoteApp)** · [demo](https://alirewa.github.io/NoteApp/) | Modular note-taking app | `CSS` | ⭐ 5 |
 | **[TodoList-App](https://github.com/Alirewa/TodoList-App)** · [demo](https://alirewa.github.io/TodoList-App/) | Clean and minimal todo list app | `CSS` | ⭐ 5 |
