@@ -100,7 +100,7 @@ const alireza = {
 <!--START_SECTION:projects-->
 | Project | | Stack | Stars |
 | :--- | :--- | :---: | :---: |
-| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 22 |
+| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 23 |
 | **[ShopingCart-App](https://github.com/Alirewa/ShopingCart-App)** · [demo](https://alirewa.github.io/ShopingCart-App/) | Shopping cart app | `CSS` | ⭐ 7 |
 | **[NoteApp](https://github.com/Alirewa/NoteApp)** · [demo](https://alirewa.github.io/NoteApp/) | Modular note-taking app | `CSS` | ⭐ 5 |
 | **[TodoList-App](https://github.com/Alirewa/TodoList-App)** · [demo](https://alirewa.github.io/TodoList-App/) | Clean and minimal todo list app | `CSS` | ⭐ 5 |
@@ -116,11 +116,11 @@ const alireza = {
 
 <!--START_SECTION:activity-->
 - ⬆️ Pushed 1 commit to [Alirewa](https://github.com/Alirewa/Alirewa) <sub>· 2 weeks ago</sub>
-- 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 2 weeks ago</sub>
-- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 2 weeks ago</sub>
-- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 2 weeks ago</sub>
-- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 2 weeks ago</sub>
-- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 2 weeks ago</sub>
+- 🌿 Created branch `fix/ats-readable-pdf` in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 weeks ago</sub>
+- 🔀 Opened a pull request in [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 weeks ago</sub>
+- ⬆️ Pushed 1 commit to [Resume-Builder](https://github.com/Alirewa/Resume-Builder) <sub>· 3 weeks ago</sub>
+- ⬆️ Pushed 1 commit to [persian-ui-kit](https://github.com/Alirewa/persian-ui-kit) <sub>· 3 weeks ago</sub>
+- ⬆️ Pushed 1 commit to [KishNews-live](https://github.com/Alirewa/KishNews-live) <sub>· 3 weeks ago</sub>
 <!--END_SECTION:activity-->
 
 ---
