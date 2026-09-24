@@ -134,7 +134,7 @@ const alireza = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alirewa&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://ghchart.rshah.org/a78bfa/Alirewa" alt="Contribution chart" width="95%" />
 
 </div>
 
