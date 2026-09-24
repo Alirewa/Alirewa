@@ -17,6 +17,22 @@ const README = "README.md";
 /** Repos that are infrastructure, not portfolio pieces. */
 const HIDDEN = new Set([USER, "Ubuntu-Server-setup", "KishNews-live"]);
 
+/**
+ * Hand-picked order for the featured table. Stars alone favoured early
+ * tutorial projects over the more substantial TypeScript work, so these lead
+ * and any remaining slots are filled by stars as before.
+ */
+const FEATURED = [
+  "persian-ui-kit",
+  "Resume-Builder",
+  "Factor-Builder",
+  "V2ray-Configs",
+  "kishview",
+  "EnglishHub-WebApp",
+  "dangi-dong",
+  "watermark-builder",
+];
+
 /** How many projects to show in the featured table. */
 const MAX_PROJECTS = 8;
 
@@ -76,13 +92,20 @@ function summarize(description) {
 
 function buildProjects(repos) {
   const picked = repos
-    .filter((r) => !r.fork && !r.archived && !HIDDEN.has(r.name))
-    // Most-starred first, then most recently pushed as the tiebreaker.
-    .sort(
-      (a, b) =>
+    .filter((r) => !r.fork && !r.archived && !r.private && !HIDDEN.has(r.name))
+    // Curated repos first in their listed order, then most-starred, then most
+    // recently pushed as the tiebreaker.
+    .sort((a, b) => {
+      const rank = (r) => {
+        const i = FEATURED.indexOf(r.name);
+        return i === -1 ? FEATURED.length : i;
+      };
+      return (
+        rank(a) - rank(b) ||
         b.stargazers_count - a.stargazers_count ||
         new Date(b.pushed_at) - new Date(a.pushed_at)
-    )
+      );
+    })
     .slice(0, MAX_PROJECTS);
 
   const rows = picked.map((r) => {
@@ -156,7 +179,8 @@ function buildActivity(events, liveRepos) {
     if (lines.length >= MAX_ACTIVITY) break;
     // Skip repos that have since been deleted or made private — otherwise the
     // profile ends up advertising 404s.
-    if (!liveRepos.has(e.repo.name.split("/")[1])) continue;
+    const name = e.repo.name.split("/")[1];
+    if (!liveRepos.has(name) || HIDDEN.has(name)) continue;
     const key = `${e.repo.name}:${e.type}`;
     if (seen.has(key)) continue;
     const text = describeEvent(e);
@@ -164,7 +188,10 @@ function buildActivity(events, liveRepos) {
     seen.add(key);
     lines.push(`- ${text} <sub>· ${ago(e.created_at)}</sub>`);
   }
-  return lines.length ? lines.join("\n") : "- _Quiet week — heads down on something new._";
+  // Most recent work lives in a private repo, which the filter above skips.
+  return lines.length
+    ? lines.join("\n")
+    : "- _Most of my recent work is on [Kishease](https://kishease.com), which lives in a private repository._";
 }
 
 function replaceSection(md, name, body) {
