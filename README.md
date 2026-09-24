@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alireza%20Pourgholam&fontSize=48&fontColor=fff&fontAlignY=34&desc=Web%20Designer%20%26%20Developer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
+<img src="assets/header.svg" alt="Alireza Pourgholam — Web Designer & Developer" width="100%" />
 
 <a href="https://github.com/Alirewa">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Web+Designer+%26+Developer+from+Kish+Island%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;6%2B+years+building+for+the+web;WordPress+%E2%9E%9C+Frontend+%E2%9E%9C+React+%26+Next.js;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Open+source+developer+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -181,6 +181,6 @@ If you need a fast, well-built web app — let's talk.
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="assets/footer.svg" alt="" width="100%" />
 <sub>Alireza Pourgholam · علیرضا پورغلام · Web Designer & Developer · Kish Island, Iran</sub>
 </div>
