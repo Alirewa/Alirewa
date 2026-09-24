@@ -88,10 +88,40 @@ const alireza = {
 ![grammY](https://img.shields.io/badge/grammY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+## 🏗️ Currently Building
+
+<table>
+<tr>
+<td>
+
+### [Kishease](https://kishease.com) &nbsp;<sub>· live · Persian / RTL</sub>
+
+A news and travel-guide site for Kish Island, built and run end-to-end by me — design, code,
+infrastructure and the content pipeline.
+
+- **Edge-rendered** — Next.js 16 on Cloudflare Workers via OpenNext, with D1 (SQLite) and KV
+- **Automated publishing** — feed ingestion, HTML sanitisation, de-duplication and Telegram delivery
+- **SEO-first** — `NewsArticle` / `FAQPage` / `Person` structured data, author pages, sitemaps
+- **Zero-cost ops** — runs within the free tier: 3 MB bundle budget, 50 subrequests per cron run
+- **Admin panel** — role-based permissions, activity log, analytics without third-party trackers
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![D1](https://img.shields.io/badge/D1_·_SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -100,14 +130,14 @@ const alireza = {
 <!--START_SECTION:projects-->
 | Project | | Stack | Stars |
 | :--- | :--- | :---: | :---: |
-| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 25 |
-| **[ShopingCart-App](https://github.com/Alirewa/ShopingCart-App)** · [demo](https://alirewa.github.io/ShopingCart-App/) | Shopping cart app | `CSS` | ⭐ 7 |
-| **[NoteApp](https://github.com/Alirewa/NoteApp)** · [demo](https://alirewa.github.io/NoteApp/) | Modular note-taking app | `CSS` | ⭐ 5 |
-| **[TodoList-App](https://github.com/Alirewa/TodoList-App)** · [demo](https://alirewa.github.io/TodoList-App/) | Clean and minimal todo list app | `CSS` | ⭐ 5 |
-| **[Inventory-App](https://github.com/Alirewa/Inventory-App)** · [demo](https://alirewa.github.io/Inventory-App/) | Inventory management app | `CSS` | ⭐ 5 |
-| **[tg-bot-uploader-drive](https://github.com/Alirewa/tg-bot-uploader-drive)** | Telegram bot that receives files and uploads them… | `PY` | ⭐ 4 |
+| **[persian-ui-kit](https://github.com/Alirewa/persian-ui-kit)** · [demo](https://alirewa.github.io/persian-ui-kit/) | Persian React UI Kit | `TS` | ⭐ 0 |
 | **[Resume-Builder](https://github.com/Alirewa/Resume-Builder)** · [demo](https://alirewa.github.io/Resume-Builder/) | Client-side resume builder for Persian, English &… | `TS` | ⭐ 2 |
 | **[Factor-Builder](https://github.com/Alirewa/Factor-Builder)** · [demo](https://alirewa.github.io/Factor-Builder/) | Free, client-side Persian (Farsi) invoice builder | `TS` | ⭐ 2 |
+| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 25 |
+| **[kishview](https://github.com/Alirewa/kishview)** · [demo](https://alirewa.github.io/kishview/) | Interactive 3D map, ticket booking & bilingual… | `TS` | ⭐ 0 |
+| **[EnglishHub-WebApp](https://github.com/Alirewa/EnglishHub-WebApp)** · [demo](https://alirewa.github.io/EnglishHub-WebApp/) | Premium offline-first English learning dashboard… | `TS` | ⭐ 0 |
+| **[dangi-dong](https://github.com/Alirewa/dangi-dong)** · [demo](https://alirewa.github.io/dangi-dong/) | Offline-first PWA for splitting shared expenses… | `TS` | ⭐ 1 |
+| **[watermark-builder](https://github.com/Alirewa/watermark-builder)** · [demo](https://alirewa.github.io/watermark-builder) | Batch image watermarking tool | `TS` | ⭐ 2 |
 <!--END_SECTION:projects-->
 
 ---
@@ -115,7 +145,7 @@ const alireza = {
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-- _Quiet week — heads down on something new._
+- _Most of my recent work is on [Kishease](https://kishease.com), which lives in a private repository._
 <!--END_SECTION:activity-->
 
 ---
@@ -131,10 +161,6 @@ const alireza = {
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Alirewa&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" height="150" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/a78bfa/Alirewa" alt="Contribution chart" width="95%" />
 
 </div>
 
