@@ -102,7 +102,7 @@ Products I own and run end-to-end — designed, built, deployed and maintained b
 
 | Site | What it is | |
 | :--- | :--- | :---: |
-| **[kishease.com](https://kishease.com)** | Persian news and travel guide for Kish Island, with automated publishing and a Telegram channel | <a href="https://kishease.com"><img src="https://img.shields.io/badge/kishease.com-Visit-7c3aed?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1a2e" /></a> |
+| **[kishease.com](https://kishease.com)** | Up-to-date Persian news outlet and travel guide for Kish Island | <a href="https://kishease.com"><img src="https://img.shields.io/badge/kishease.com-Visit-7c3aed?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1a2e" /></a> |
 | **[applyfa.com](https://applyfa.com)** | Study-abroad application platform for Persian-speaking students | <a href="https://applyfa.com"><img src="https://img.shields.io/badge/applyfa.com-Visit-7c3aed?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1a2e" /></a> |
 | **[bimfaa.ir](https://bimfaa.ir)** | Company site for a BIM modelling and MEP coordination studio — Revit, Navisworks and shop drawings | <a href="https://bimfaa.ir"><img src="https://img.shields.io/badge/bimfaa.ir-Visit-7c3aed?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1a2e" /></a> |
 
