@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alirewa/Alirewa/main/assets/header.svg?v=2" alt="Alireza Pourgholam — Web Designer & Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/Alirewa/Alirewa/main/assets/banner-header.svg" alt="Alireza Pourgholam — Web Designer & Developer" width="100%" />
 
 <a href="https://github.com/Alirewa">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Web+Designer+%26+Developer+from+Kish+Island%2C+Iran+%F0%9F%8F%9D%EF%B8%8F;6%2B+years+building+for+the+web;WordPress+%E2%9E%9C+Frontend+%E2%9E%9C+React+%26+Next.js;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Open+source+developer+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -181,6 +181,6 @@ If you need a fast, well-built web app — let's talk.
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Alirewa/Alirewa/main/assets/footer.svg?v=2" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/Alirewa/Alirewa/main/assets/footer.svg" alt="" width="100%" />
 <sub>Alireza Pourgholam · علیرضا پورغلام · Web Designer & Developer · Kish Island, Iran</sub>
 </div>
