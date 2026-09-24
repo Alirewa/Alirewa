@@ -18,9 +18,8 @@ const README = "README.md";
 const HIDDEN = new Set([USER, "Ubuntu-Server-setup", "KishNews-live"]);
 
 /**
- * Hand-picked order for the featured table. Stars alone favoured early
- * tutorial projects over the more substantial TypeScript work, so these lead
- * and any remaining slots are filled by stars as before.
+ * Hand-picked repos for the featured table. Stars alone favoured early
+ * tutorial projects over the more substantial TypeScript work.
  */
 const FEATURED = [
   "persian-ui-kit",
@@ -90,23 +89,18 @@ function summarize(description) {
   return clamp(t, 52).replace(/[.,;:]$/, "");
 }
 
+/** Most-starred first, then most recently pushed as the tiebreaker. */
+const byStars = (a, b) =>
+  b.stargazers_count - a.stargazers_count || new Date(b.pushed_at) - new Date(a.pushed_at);
+
 function buildProjects(repos) {
   const picked = repos
     .filter((r) => !r.fork && !r.archived && !r.private && !HIDDEN.has(r.name))
-    // Curated repos first in their listed order, then most-starred, then most
-    // recently pushed as the tiebreaker.
-    .sort((a, b) => {
-      const rank = (r) => {
-        const i = FEATURED.indexOf(r.name);
-        return i === -1 ? FEATURED.length : i;
-      };
-      return (
-        rank(a) - rank(b) ||
-        b.stargazers_count - a.stargazers_count ||
-        new Date(b.pushed_at) - new Date(a.pushed_at)
-      );
-    })
-    .slice(0, MAX_PROJECTS);
+    // Curated repos take the slots first; the rest only fill any gaps.
+    .sort((a, b) => FEATURED.includes(b.name) - FEATURED.includes(a.name) || byStars(a, b))
+    .slice(0, MAX_PROJECTS)
+    // Displayed most-starred first.
+    .sort(byStars);
 
   const rows = picked.map((r) => {
     const demo = r.homepage ? ` · [demo](${r.homepage})` : "";
@@ -191,7 +185,7 @@ function buildActivity(events, liveRepos) {
   // Most recent work lives in a private repo, which the filter above skips.
   return lines.length
     ? lines.join("\n")
-    : "- _Most of my recent work is on [Kishease](https://kishease.com), which lives in a private repository._";
+    : "- _Most of my recent work is on the production sites above, which live in private repositories._";
 }
 
 function replaceSection(md, name, body) {
