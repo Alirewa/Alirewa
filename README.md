@@ -113,7 +113,7 @@ Products I own and run end-to-end — designed, built, deployed and maintained b
 <!--START_SECTION:projects-->
 | Project | | Stack | Stars |
 | :--- | :--- | :---: | :---: |
-| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 25 |
+| **[V2ray-Configs](https://github.com/Alirewa/V2ray-Configs)** · [demo](https://raw.githubusercontent.com/Alirewa/v2ray-configs/main/config.txt) | Free V2Ray / Xray subscription link | `PY` | ⭐ 26 |
 | **[Resume-Builder](https://github.com/Alirewa/Resume-Builder)** · [demo](https://alirewa.github.io/Resume-Builder/) | Client-side resume builder for Persian, English &… | `TS` | ⭐ 2 |
 | **[Factor-Builder](https://github.com/Alirewa/Factor-Builder)** · [demo](https://alirewa.github.io/Factor-Builder/) | Free, client-side Persian (Farsi) invoice builder | `TS` | ⭐ 2 |
 | **[watermark-builder](https://github.com/Alirewa/watermark-builder)** · [demo](https://alirewa.github.io/watermark-builder) | Batch image watermarking tool | `TS` | ⭐ 2 |

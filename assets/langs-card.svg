@@ -9,10 +9,10 @@
   </style>
   <rect x=".5" y=".5" width="459" height="292" rx="10" fill="#0d1117" stroke="#1f2430"/>
   <text x="25" y="35" class="t">Most Used Languages</text>
-  <g class="fade"><rect x="25.0" y="58" width="334.6" height="10" rx="5" fill="#3178c6"/>
-    <rect x="359.6" y="58" width="22.1" height="10" rx="0" fill="#3572A5"/>
-    <rect x="381.7" y="58" width="22.1" height="10" rx="0" fill="#563d7c"/>
-    <rect x="403.8" y="58" width="21.0" height="10" rx="0" fill="#f1e05a"/>
+  <g class="fade"><rect x="25.0" y="58" width="334.5" height="10" rx="5" fill="#3178c6"/>
+    <rect x="359.5" y="58" width="22.1" height="10" rx="0" fill="#3572A5"/>
+    <rect x="381.6" y="58" width="22.1" height="10" rx="0" fill="#563d7c"/>
+    <rect x="403.7" y="58" width="21.0" height="10" rx="0" fill="#f1e05a"/>
     <rect x="424.8" y="58" width="4.4" height="10" rx="0" fill="#89e051"/>
     <rect x="429.2" y="58" width="4.1" height="10" rx="0" fill="#e34c26"/>
     <rect x="433.3" y="58" width="1.7" height="10" rx="5" fill="#6e7681"/>
